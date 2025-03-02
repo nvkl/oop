@@ -7,6 +7,7 @@ int main() {
     cin >> max;
 
     game g(max);
+    game p(max);
 
-    g.play();
+    p.play();
 }
